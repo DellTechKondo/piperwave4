@@ -5,7 +5,7 @@ import paho.mqtt.client as mqtt
 
 ###### Edit variables to your environment #######
 broker_address = "192.168.0.31"     #MQTT broker_address
-Topic = "Miho-MQTT"
+Topic = "wave4"
 Msg = "Greetings from RPi !!!"
 
 # publish MQTT
