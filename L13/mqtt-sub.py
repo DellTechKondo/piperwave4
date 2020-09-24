@@ -7,7 +7,7 @@ import redis
 #broker_address = "127.0.0.1"
 broker_address = "test.mosquitto.org"
 RedisHost = "127.0.0.1"
-Topic = "ishiyk"
+Topic = "wave4"
 
 r = redis.Redis(host=RedisHost, port='6379')
 
